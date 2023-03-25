@@ -1,0 +1,175 @@
+main{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    width: 700px;
+}
+
+.encabezado1{
+    position: absolute;
+    background-image: url(encabezado.png);
+    background-repeat: no-repeat;
+    background-size: 700px;
+    width: 700px;
+    height: 700px;
+}
+
+.logo{
+    position: absolute;
+    background-image: url(Recurso\ 2.png);
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    margin-left: 70px;
+    margin-top: 50px;
+}
+
+.flecha{
+    position: absolute;
+    background-image: url(Recurso\ 1.png);
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 200px;
+    top: 0;
+    margin-top: 200px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.invoice{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 50px;
+    color: #034b8f;
+}
+
+.caja1{
+    position: absolute;
+    width: 400px;
+    height: 50px;
+    margin-top: 100px;
+}
+.caja2{
+    background-color: #9addf0;
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 180px;
+    width: 250px;
+    height: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    text-align: center;
+}
+.circulo1{
+    position: absolute;
+    background-repeat: no-repeat;
+    top: 250px;
+    height: 100px;
+    right: 657px;
+}
+.caja3{
+    position: relative;
+    top: 245px;
+    left: 70px;
+}
+
+.lineas{
+    position: absolute;
+    background-repeat: no-repeat;
+    top: 350px;
+    right: 50px;
+}
+.circulo2{
+    position: absolute;
+    background-repeat: no-repeat;
+    top: 780px;
+    height: 200px;
+    right: 0px;
+}
+.caja4{
+    background-color: #003e5d;
+    position: absolute;
+    margin-left: 35px;
+    margin-top: 260px;
+    width: 600px;
+    height: 30px;
+    border-radius: 20px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+table{
+    text-align: center ;
+    position: absolute;
+    width: 600px;
+    margin-left: 30px;
+    margin-top: 260px;
+}
+.table-container{
+    position: absolute;
+    margin-top: 450px;
+    margin-left: -20px;
+}
+.table-container table{
+    color: #000;
+    margin-left: 50px;
+    border-top-right-radius: 10px;
+    border-spacing: 0px;
+    text-align: center;
+    border-collapse: collapse;
+    top: -400px;
+}
+td{
+    border-bottom: 1px solid #000;
+}
+.vacio{
+    height: 60px;
+}
+.caja5{
+    position: relative;
+    width: 200px;
+    height: 4px;
+    top: 680px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px;
+}
+.caja6{
+    position: relative;
+    right: -450px;
+    top: 650px;
+}
+.resul{
+    position: relative;
+    right: -550px;
+    top: 549px;
+}
+.footer{
+    position: relative;
+    top: 599px;
+}
+.anc{
+    width: 700px;
+}
+.footer2{
+    border-top: 2px solid #000;
+    padding-top: 1px;
+    width: 150px;
+    margin-top: 465px;
+    margin-left: 40px;
+    text-align: center;
+    font-size: 90%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.cont{
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 550px;
+    font-size: 80%;
+    color: white;
+}
